@@ -12,7 +12,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Basic Structure.
 - Two initial routes ("clients" and "products").
-- ".gitignore".
+- ".gitignore" File.
 - Changelog File.
+- README File.
 
 [1.0.0]: 
